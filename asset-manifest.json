@@ -1,27 +1,24 @@
 {
   "files": {
-    "main.css": "/FTI-DEMO/static/css/main.95574262.chunk.css",
-    "main.js": "/FTI-DEMO/static/js/main.24f49660.chunk.js",
-    "main.js.map": "/FTI-DEMO/static/js/main.24f49660.chunk.js.map",
-    "runtime-main.js": "/FTI-DEMO/static/js/runtime-main.1be0bfa0.js",
-    "runtime-main.js.map": "/FTI-DEMO/static/js/runtime-main.1be0bfa0.js.map",
-    "static/css/2.12833ced.chunk.css": "/FTI-DEMO/static/css/2.12833ced.chunk.css",
-    "static/js/2.2cf6d033.chunk.js": "/FTI-DEMO/static/js/2.2cf6d033.chunk.js",
-    "static/js/2.2cf6d033.chunk.js.map": "/FTI-DEMO/static/js/2.2cf6d033.chunk.js.map",
-    "static/js/3.4c18cb0c.chunk.js": "/FTI-DEMO/static/js/3.4c18cb0c.chunk.js",
-    "static/js/3.4c18cb0c.chunk.js.map": "/FTI-DEMO/static/js/3.4c18cb0c.chunk.js.map",
+    "main.css": "/FTI-DEMO/static/css/main.e78d5fc1.chunk.css",
+    "main.js": "/FTI-DEMO/static/js/main.3c899c47.chunk.js",
+    "main.js.map": "/FTI-DEMO/static/js/main.3c899c47.chunk.js.map",
+    "runtime-main.js": "/FTI-DEMO/static/js/runtime-main.0f5500d6.js",
+    "runtime-main.js.map": "/FTI-DEMO/static/js/runtime-main.0f5500d6.js.map",
+    "static/js/2.34db2f33.chunk.js": "/FTI-DEMO/static/js/2.34db2f33.chunk.js",
+    "static/js/2.34db2f33.chunk.js.map": "/FTI-DEMO/static/js/2.34db2f33.chunk.js.map",
+    "static/js/3.e5c71eff.chunk.js": "/FTI-DEMO/static/js/3.e5c71eff.chunk.js",
+    "static/js/3.e5c71eff.chunk.js.map": "/FTI-DEMO/static/js/3.e5c71eff.chunk.js.map",
     "index.html": "/FTI-DEMO/index.html",
-    "static/css/2.12833ced.chunk.css.map": "/FTI-DEMO/static/css/2.12833ced.chunk.css.map",
-    "static/css/main.95574262.chunk.css.map": "/FTI-DEMO/static/css/main.95574262.chunk.css.map",
-    "static/js/2.2cf6d033.chunk.js.LICENSE.txt": "/FTI-DEMO/static/js/2.2cf6d033.chunk.js.LICENSE.txt",
+    "static/css/main.e78d5fc1.chunk.css.map": "/FTI-DEMO/static/css/main.e78d5fc1.chunk.css.map",
+    "static/js/2.34db2f33.chunk.js.LICENSE.txt": "/FTI-DEMO/static/js/2.34db2f33.chunk.js.LICENSE.txt",
     "static/media/index.css": "/FTI-DEMO/static/media/element-icons.da1319c2.woff",
     "static/media/logo.c9ed1fb2.png": "/FTI-DEMO/static/media/logo.c9ed1fb2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1be0bfa0.js",
-    "static/css/2.12833ced.chunk.css",
-    "static/js/2.2cf6d033.chunk.js",
-    "static/css/main.95574262.chunk.css",
-    "static/js/main.24f49660.chunk.js"
+    "static/js/runtime-main.0f5500d6.js",
+    "static/js/2.34db2f33.chunk.js",
+    "static/css/main.e78d5fc1.chunk.css",
+    "static/js/main.3c899c47.chunk.js"
   ]
 }
