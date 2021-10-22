@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FTI-DEMO/static/css/main.24b571fb.chunk.css",
-    "main.js": "/FTI-DEMO/static/js/main.70e0994b.chunk.js",
-    "main.js.map": "/FTI-DEMO/static/js/main.70e0994b.chunk.js.map",
+    "main.js": "/FTI-DEMO/static/js/main.c3501670.chunk.js",
+    "main.js.map": "/FTI-DEMO/static/js/main.c3501670.chunk.js.map",
     "runtime-main.js": "/FTI-DEMO/static/js/runtime-main.76477ea5.js",
     "runtime-main.js.map": "/FTI-DEMO/static/js/runtime-main.76477ea5.js.map",
     "static/js/2.b9acb658.chunk.js": "/FTI-DEMO/static/js/2.b9acb658.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.76477ea5.js",
     "static/js/2.b9acb658.chunk.js",
     "static/css/main.24b571fb.chunk.css",
-    "static/js/main.70e0994b.chunk.js"
+    "static/js/main.c3501670.chunk.js"
   ]
 }
