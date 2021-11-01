@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/FTI-DEMO/static/css/main.27a37070.chunk.css",
-    "main.js": "/FTI-DEMO/static/js/main.5244eced.chunk.js",
-    "main.js.map": "/FTI-DEMO/static/js/main.5244eced.chunk.js.map",
+    "main.css": "/FTI-DEMO/static/css/main.80b13e12.chunk.css",
+    "main.js": "/FTI-DEMO/static/js/main.04f43d30.chunk.js",
+    "main.js.map": "/FTI-DEMO/static/js/main.04f43d30.chunk.js.map",
     "runtime-main.js": "/FTI-DEMO/static/js/runtime-main.93c7ca15.js",
     "runtime-main.js.map": "/FTI-DEMO/static/js/runtime-main.93c7ca15.js.map",
-    "static/js/2.d72724c3.chunk.js": "/FTI-DEMO/static/js/2.d72724c3.chunk.js",
-    "static/js/2.d72724c3.chunk.js.map": "/FTI-DEMO/static/js/2.d72724c3.chunk.js.map",
+    "static/js/2.8877dff8.chunk.js": "/FTI-DEMO/static/js/2.8877dff8.chunk.js",
+    "static/js/2.8877dff8.chunk.js.map": "/FTI-DEMO/static/js/2.8877dff8.chunk.js.map",
     "static/js/3.4eb87a46.chunk.js": "/FTI-DEMO/static/js/3.4eb87a46.chunk.js",
     "static/js/3.4eb87a46.chunk.js.map": "/FTI-DEMO/static/js/3.4eb87a46.chunk.js.map",
     "index.html": "/FTI-DEMO/index.html",
-    "static/css/main.27a37070.chunk.css.map": "/FTI-DEMO/static/css/main.27a37070.chunk.css.map",
-    "static/js/2.d72724c3.chunk.js.LICENSE.txt": "/FTI-DEMO/static/js/2.d72724c3.chunk.js.LICENSE.txt",
+    "static/css/main.80b13e12.chunk.css.map": "/FTI-DEMO/static/css/main.80b13e12.chunk.css.map",
+    "static/js/2.8877dff8.chunk.js.LICENSE.txt": "/FTI-DEMO/static/js/2.8877dff8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/FTI-DEMO/static/media/element-icons.da1319c2.woff",
     "static/media/logo.c9ed1fb2.png": "/FTI-DEMO/static/media/logo.c9ed1fb2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.93c7ca15.js",
-    "static/js/2.d72724c3.chunk.js",
-    "static/css/main.27a37070.chunk.css",
-    "static/js/main.5244eced.chunk.js"
+    "static/js/2.8877dff8.chunk.js",
+    "static/css/main.80b13e12.chunk.css",
+    "static/js/main.04f43d30.chunk.js"
   ]
 }
